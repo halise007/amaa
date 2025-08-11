@@ -1,0 +1,5 @@
+Shortcuts in Enso are essentially pre-built workflows for performing common tasks in the DeFi .
+Simply put, shortcuts are a set of "actions" that are combined to turn a complex process into a simple step. For example, a shortcut could include the following steps:
+1-Converting one token to another.
+2-Staking the converted token to gain profit
+By providing these shortcuts, it makes things much easier for users and developers, as they no longer need to perform each of these steps manually. They can perform multiple tasks seamlessly and quickly using a ready-made shortcut
